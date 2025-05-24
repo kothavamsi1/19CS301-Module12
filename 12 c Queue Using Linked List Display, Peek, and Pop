@@ -32,5 +32,8 @@ for i in range(len(queue)):
 
 ## OUTPUT
 
+![image](https://github.com/gokulkrishnan2005/19CS301-Module12/blob/main/m12-3.png?raw=true)
+
 
 ## RESULT
+thus,program to insert 3 elements into a queue and display each element with its index was execute successfully.
