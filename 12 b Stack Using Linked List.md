@@ -1,3 +1,4 @@
+
 # Ex.No 12.b Stack Using Linked List – Push and Index Display
 
 ## Aim
@@ -32,7 +33,9 @@ for i in range(len(stack)):
 ```
 
 ## Output
+![image](https://github.com/gokulkrishnan2005/19CS301-Module12/blob/main/module%2012-2.png?raw=true)
 
 
 ## Result
+Thus, program to insert 3 elements into a stack and display the index value of each element stored in the stack was implemented and executed successfully.
 
